@@ -1,2 +1,2 @@
 def lambda_handler(event, handler):
-    print('code build done')
+    print('code build updated')
